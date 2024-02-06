@@ -31,7 +31,7 @@ This Python script allows you to discover rooms and count chairs per room in an 
 
 ## Author
 
-- [Your Name]
+- Alexei Ferreira
 
 ## License
 
